@@ -1,7 +1,6 @@
 <?php
 /*
 **
-**	Portfolio PHP OOP MVC
 **	/classes/Page_Data.class.php
 **  
 */
