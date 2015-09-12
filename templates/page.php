@@ -1,7 +1,6 @@
 <?php
 /*
 **
-**	Portfolio PHP OOP MVC
 **	/templates/page.php
 **  
 */
